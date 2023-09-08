@@ -1,0 +1,16 @@
+﻿  Bot.cpp
+  Matrix.cpp
+  Menu_1.cpp
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\Menu_1.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\Playing_field.h(451,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Menu_2.cpp
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\Playing_field.h(451,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  User.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\Playing_field.h(92): warning C4715: Playing_field_box::Playing_field::MapPictureBox::getIdShashka: значение возвращается не при всех путях выполнения
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\Playing_field.h(109): warning C4715: Playing_field_box::Playing_field::MapPictureBox::getId: значение возвращается не при всех путях выполнения
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\Playing_field.h(92): warning C4715: Playing_field_box::Playing_field::MapPictureBox::getIdShashka: значение возвращается не при всех путях выполнения
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\Playing_field.h(109): warning C4715: Playing_field_box::Playing_field::MapPictureBox::getId: значение возвращается не при всех путях выполнения
+  Bot.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Exam (graphics).vcxproj -> C:\Users\vanya\source\repos\Exam (graphics)\x64\Debug\Exam (graphics).exe

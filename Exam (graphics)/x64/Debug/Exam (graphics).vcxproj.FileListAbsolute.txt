@@ -1,0 +1,5 @@
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\x64\Debug\Exam (graphics).vcxproj.AssemblyReference.cache
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\x64\Debug\Examgraphics.Menu_1.resources
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\x64\Debug\Examgraphics.Menu_2.resources
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\x64\Debug\Examgraphics.Playing_field.resources
+C:\Users\vanya\source\repos\Exam (graphics)\Exam (graphics)\x64\Debug\Exam (graphics).vcxproj.GenerateResource.cache
